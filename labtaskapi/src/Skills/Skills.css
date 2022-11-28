@@ -1,0 +1,23 @@
+.menudiv {
+    width: 100%;
+    height: 100%;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.paradiv {
+    width: 100%;
+    height: 98%;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.para {
+    width: 100%;
+    border: groove;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+
+}
